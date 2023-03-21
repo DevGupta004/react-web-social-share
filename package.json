@@ -1,8 +1,8 @@
 {
-  "name": "react-web-share",
+  "name": "react-web-social-share",
   "author": "devgupta",
-  "version": "2.0.2",
-  "description": "Tiny Web Share API Wrapper with fallback for unsupported browsers",
+  "version": "1.0.1",
+  "description": "Web Social Share API Wrapper with fallback for unsupported browsers",
   "license": "MIT",
   "repository": "https://github.com/DevGupta004/react-web-social-share",
   "module": "./dist/esm/index.js",
