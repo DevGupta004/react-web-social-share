@@ -1,4 +1,4 @@
-# react-web-share
+# react-web-social-share
 
 Tiny [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) wrapper with fallback for unsupported browsers
 
@@ -6,7 +6,7 @@ Tiny [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/
 [![NPM](https://img.shields.io/npm/v/react-web-share.svg)](https://npm.im/react-web-share)
 [![gzip](https://badgen.net/bundlephobia/minzip/react-web-share@latest)](https://bundlephobia.com/result?p=react-web-share@latest)
 
-[![Edit react-web-share](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-web-share-46skt)
+[![Edit react-web-share](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/rn-web-app-social-share-g1e65j)
 
 > 💡 most browsers restricts web share api only to https websites
 

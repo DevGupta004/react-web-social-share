@@ -1,7 +1,7 @@
 {
   "name": "react-web-social-share",
   "author": "devgupta",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Web Social Share API Wrapper with fallback for unsupported browsers",
   "license": "MIT",
   "repository": "https://github.com/DevGupta004/react-web-social-share",
