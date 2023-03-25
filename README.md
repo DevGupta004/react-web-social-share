@@ -2,8 +2,8 @@
 
 Tiny [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share) wrapper with fallback for unsupported browsers
 
-[![GitHub Actions Status](https://github.com/hc-oss/react-web-share/workflows/NodeJS/badge.svg)](https://github.com/hc-oss/react-web-share/actions)
-[![NPM](https://img.shields.io/npm/v/react-web-share.svg)](https://npm.im/react-web-share)
+[![GitHub Actions Status](https://github.com/DevGupta004/react-web-social-share/workflows/NodeJS/badge.svg)](https://github.com/DevGupta004/react-web-social-share)
+[![NPM](https://img.shields.io/npm/v/react-web-share.svg)](https://npm.im/react-web-social-share)
 [![gzip](https://badgen.net/bundlephobia/minzip/react-web-share@latest)](https://bundlephobia.com/result?p=react-web-share@latest)
 
 [![Edit react-web-share](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/rn-web-app-social-share-g1e65j)
